@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentTranslatorWeb", "DocumentTranslatorWeb\DocumentTranslatorWeb.csproj", "{780585E7-9304-428B-AC7C-478BA836F052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{780585E7-9304-428B-AC7C-478BA836F052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780585E7-9304-428B-AC7C-478BA836F052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780585E7-9304-428B-AC7C-478BA836F052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780585E7-9304-428B-AC7C-478BA836F052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6835D14-4DF4-466C-BDE9-CE450CE778FB}
+	EndGlobalSection
+EndGlobal
